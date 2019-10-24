@@ -1,0 +1,64 @@
+﻿<html>
+<head>
+    <title></title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="~/Scripts/Feedback.js"></script>
+
+    <link href="~/css/Feedback.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div class="container contact-form">
+        <div class="contact-image">
+            <img src="https://image.ibb.co/kUagtU/rocket_contact.png" alt="rocket_contact" />
+        </div>
+        <form method="post">
+            <h3><strong>FEEDBACK</strong></h3>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input id="txtFeedbackName" type="text" name="txtName" class="form-control" placeholder="Your Name *" value="" />
+                    </div>
+                    <div class="form-group">
+                        <input id="txtFeedbackEmail" type="text" name="txtEmail" class="form-control" placeholder="Your Email *" value="" />
+                    </div>
+                    <div class="form-group">
+                        <input id="txtFeedbackPhone" type="text" name="txtPhone" class="form-control" placeholder="Your Phone Number *" value="" />
+                    </div>
+                    <div class="form-group">
+                        <input id="btnFeedbackSubmit" type="submit" name="btnSubmit" class="btnContact" value="SUBMIT" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <textarea name="txtMsg" class="form-control" placeholder="Suggestion *" style="width: 100%; height: 150px;"></textarea>
+                    </div>
+                    @*Star Rating*@
+                   
+                        <div id="rating">
+                          <strong>Rating</strong>  
+                            <span class="starRating">
+                                <input id="rating5" type="radio" name="rating" value="5">
+                                <label for="rating5">5</label>
+                                <input id="rating4" type="radio" name="rating" value="4">
+                                <label for="rating4">4</label>
+                                <input id="rating3" type="radio" name="rating" value="3">
+                                <label for="rating3">3</label>
+                                <input id="rating2" type="radio" name="rating" value="2" checked>
+                                <label for="rating2">2</label>
+                                <input id="rating1" type="radio" name="rating" value="1">
+                                <label for="rating1">1</label>
+
+                            </span><br />
+                        </div>                
+                                          
+            </div>
+                </div>
+        </form>
+    </div>
+    
+</body>
+
+</html>
