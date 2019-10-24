@@ -1,0 +1,97 @@
+    <div class="col-md-4 single-right">
+                            <h3>Up Next</h3>
+                            <div class="single-grid-right">
+                                <div class="single-right-grids">
+                                    <div class="col-md-4 single-right-grid-left">
+                                        <a href="single.html"><img src="images/m1.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="col-md-8 single-right-grid-right">
+                                        <a href="single.html" class="title"> War Dogs</a>
+                                        <p class="author"><a href="#" class="author">Todd Phillips</a></p>
+                                        <p class="views">$86.20 million USD</p>
+                                    </div>
+                                    <div class="clearfix"> </div>
+                                </div>
+                                <div class="single-right-grids">
+                                    <div class="col-md-4 single-right-grid-left">
+                                        <a href="single.html"><img src="images/m23.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="col-md-8 single-right-grid-right">
+                                        <a href="single.html" class="title"> Dead Island 2</a>
+                                        <p class="author"><a href="#" class="author">Techland</a></p>
+                                        <p class="views">$164.30 million USD </p>
+                                    </div>
+                                    <div class="clearfix"> </div>
+                                </div>
+                                <div class="single-right-grids">
+                                    <div class="col-md-4 single-right-grid-left">
+                                        <a href="single.html"><img src="images/m18.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="col-md-8 single-right-grid-right">
+                                        <a href="single.html" class="title">ISRA 88</a>
+                                        <p class="author"><a href="#" class="author">Thomas Zellen</a></p>
+                                        <p class="views">$58.23 million USD</p>
+                                    </div>
+                                    <div class="clearfix"> </div>
+                                </div>
+                                <div class="single-right-grids">
+                                    <div class="col-md-4 single-right-grid-left">
+                                        <a href="single.html"><img src="images/h7.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="col-md-8 single-right-grid-right">
+                                        <a href="single.html" class="title"> DeadZ</a>
+                                        <p class="author"><a href="#" class="author"> David Cronenberg</a></p>
+                                        <p class="views">$16.30 million USD</p>
+                                    </div>
+                                    <div class="clearfix"> </div>
+                                </div>
+                                <div class="single-right-grids">
+                                    <div class="col-md-4 single-right-grid-left">
+                                        <a href="single.html"><img src="images/h3.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="col-md-8 single-right-grid-right">
+                                        <a href="single.html" class="title"> Shallows</a>
+                                        <p class="author"><a href="#" class="author">Jaume Collet-Serra</a></p>
+                                        <p class="views">$119.10 million USD</p>
+                                    </div>
+                                    <div class="clearfix"> </div>
+                                </div>
+                                <div class="single-right-grids">
+                                    <div class="col-md-4 single-right-grid-left">
+                                        <a href="single.html"><img src="images/h4.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="col-md-8 single-right-grid-right">
+                                        <a href="single.html" class="title"> Hush</a>
+                                        <p class="author"><a href="#" class="author">Mike Flanagan</a></p>
+                                        <p class="views"> $1 million USD</p>
+                                    </div>
+                                    <div class="clearfix"> </div>
+                                </div>
+                                <div class="single-right-grids">
+                                    <div class="col-md-4 single-right-grid-left">
+                                        <a href="single.html"><img src="images/h5.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="col-md-8 single-right-grid-right">
+                                        <a href="single.html" class="title">Tell Me How I Die</a>
+                                        <p class="author">By <a href="#" class="author">D.J. Viola</a></p>
+                                        <p class="views">$235,208 USD</p>
+                                    </div>
+                                    <div class="clearfix"> </div>
+                                </div>
+                                <div class="single-right-grids">
+                                    <div class="col-md-4 single-right-grid-left">
+                                        <a href="single.html"><img src="images/h9.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="col-md-8 single-right-grid-right">
+                                        <a href="single.html" class="title"> Holidays</a>
+                                        <p class="author">By <a href="#" class="author">Kevin Smith </a></p>
+                                        <p class="views">$55,621 USD</p>
+
+                                    </div>
+                                    <div class="clearfix"> </div>
+                                </div>
+
+
+                            </div>
+
+                        </div>
